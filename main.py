@@ -1,6 +1,4 @@
 import cv2
-import os
-import time
 
 gscale1 = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~i!lI;:,\"^`. "
 
